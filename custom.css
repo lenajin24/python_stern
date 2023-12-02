@@ -1,0 +1,47 @@
+#navbar-elements {
+  color: #8B0000;
+}
+
+.banner {
+  background: #0070ef;
+  background: -webkit-linear-gradient(to right, #9B0000, #FDA8A3);
+  background: linear-gradient(to right, #9B0000, #FDA8A3);
+}
+
+.discover-banner {
+    height: 65vh;
+    background: url(img/discover.avif) no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#concerts {
+  border-radius: 25px;
+  background: url(img/concert.avif) center center;
+  background-size:cover;
+  padding: 10px;
+  width: 200px;
+  height: 300px;
+  margin: 0 20px;
+}
+
+#family {
+  border-radius: 25px;
+  background: url(img/family.avif) center 60%;
+  background-size: cover;
+  padding: 10px;
+  width: 200px;
+  height: 300px;
+  margin: 0 20px;
+}
+
+#community {
+  border-radius: 25px;
+  background: url(img/community.avif) center center;
+  background-size:cover;
+  padding: 10px;
+  width: 200px;
+  height: 300px;
+  margin: 0 20px;
+}
+
