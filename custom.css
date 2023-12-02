@@ -15,10 +15,6 @@
     overflow: hidden;
 }
 
-.about {
-    height: 65vh;
-}
-
 
 #concerts {
   border-radius: 25px;
@@ -44,10 +40,9 @@
   border-radius: 10px;
   background: url(img/about.avif) center center;
   background-size: cover;
-  padding: 20px;
+  padding: 10px;
   width: 300px;
   height: 300px;
-  margin: 40 40px;
 }
 
 #community {
